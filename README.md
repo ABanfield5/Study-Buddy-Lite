@@ -1,3 +1,8 @@
+## Try It (Screenshots Coming Soon!)
+
+Use Study Buddy Lite here:
+[Try Study Buddy](https://chatgpt.com/g/g-69da9df297388191a58d82fda774d20a-study-buddy-ai-powered-learning)
+
 # Study-Buddy-Lite
 Study Buddy Lite is an AI tutor that helps you learn anything faster and more easily.
 
